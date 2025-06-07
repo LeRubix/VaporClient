@@ -35,4 +35,8 @@
 2. Discord presence/status support
 
 I hope you enjoy Vapor Client!
-- Rubix
+-Rubix
+
+![image](https://github.com/user-attachments/assets/1b47335d-10dc-4577-87e4-85ccda00b61c)
+![image](https://github.com/user-attachments/assets/5948393f-b6cb-466a-ad1c-361711f8f11d)
+![image](https://github.com/user-attachments/assets/b729f804-d19b-4450-bc79-b54d571acda6)
