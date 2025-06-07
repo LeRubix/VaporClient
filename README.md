@@ -4,7 +4,7 @@
 
 > [!IMPORTANT]
 > You will need IGDB API credentials. The program starts with an onboarding where you'll enter these credentials. Instructions will be displayed for more information. 
-> + Optionally, get qBitTorrent if you intend on using the torrenting. 
+> & Optionally, get qBitTorrent if you intend on using the torrenting. 
 
 ## Features
 
