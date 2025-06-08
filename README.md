@@ -1,10 +1,10 @@
 # Vapor Client
 
-**Vapor Client** is a modern, cross-platform game client application for downloading, torrenting, and managing your game library. Inspired by popular game launchers, Vapor Client provides a steam-like, user-friendly interface to organize, launch, and keep track of your games, whether they are downloaded directly or via torrents.
+**Vapor Client** is a modern game client application for downloading, torrenting, and managing your game library. Inspired by Steam, Vapor Client provides a familiar, user-friendly interface to organize, launch, and keep track of your games, whether they are downloaded directly, torrented, or added manually.
 
 > [!IMPORTANT]
 > You will need IGDB API credentials. The program starts with an onboarding where you'll enter these credentials. Instructions will be displayed for more information. <br>
-> & Optionally, get qBitTorrent if you intend on using the torrenting. 
+> & Optionally, you will need a torrent client if you intend on using the torrenting. I recommend [qBitTorrent](https://www.qbittorrent.org/download)
 
 ## Features
 
@@ -41,5 +41,6 @@ I hope you enjoy Vapor Client!
 -Rubix
 
 ![image](https://github.com/user-attachments/assets/1b47335d-10dc-4577-87e4-85ccda00b61c)
+![image](https://github.com/user-attachments/assets/80253dc9-8b48-4c19-a3a5-d31806e3830b)
 ![image](https://github.com/user-attachments/assets/5948393f-b6cb-466a-ad1c-361711f8f11d)
 ![image](https://github.com/user-attachments/assets/b729f804-d19b-4450-bc79-b54d571acda6)
