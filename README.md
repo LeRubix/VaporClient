@@ -25,9 +25,12 @@
 
 ## How To Use
 
-1. Run the Installer
-2. The program will automatically run once installed
-3. The program can then be found on your desktop, the start menu, or C:\Users\USERNAME\AppData\Local\Programs\VaporClient
+1. Install the installer from the [latest release](https://github.com/LeRubix/VaporClient/releases/latest)
+2. Run the Installer.exe
+3. The program will automatically open once installed
+4. The program can then be found on your desktop, the start menu, or C:\Users\USERNAME\AppData\Local\Programs\VaporClient
+5. Enter your IGDB credentials on the onboarding screen
+6. Click on any game in the store or add your own game in the library
 
 ## Future Plans:
 1. A centralised game database on a server that clients automatically update
