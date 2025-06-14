@@ -1,0 +1,104 @@
+{
+  "displayName": "Rubix",
+  "username": "rbx",
+  "profilePicture": "https://images-ext-1.discordapp.net/external/MibFfyhVDQv4hiYYNYS9j-YDbhJ3ZvHYlsdEa1H2w5g/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/406950166835363850/a_af8f2a4bbb1ed35862f20dd8f0f98785.gif?width=502&height=502",
+  "bio": "[the creator]\nhttps://rubix.garden/",
+  "location": "ie",
+  "recentActivity": [
+    {
+      "id": "user-1749832616950-9940",
+      "name": "DOOM Eternal",
+      "image": "media/loading.webp",
+      "lastPlayed": 1749873867766,
+      "playtime": 1
+    },
+    {
+      "id": 362620,
+      "name": "Software Inc.",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6mn8.jpg",
+      "lastPlayed": 1749657541912,
+      "playtime": 3147
+    },
+    {
+      "id": "user-1749278189483-2144",
+      "name": "Schedule I",
+      "image": "media/loading.webp",
+      "lastPlayed": 1749278504512,
+      "playtime": 3603
+    }
+  ],
+  "allActivity": [
+    {
+      "id": "user-1749278189483-2144",
+      "name": "Schedule I",
+      "image": "media/loading.webp",
+      "playtime": 3603
+    },
+    {
+      "id": 362620,
+      "name": "Software Inc.",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6mn8.jpg",
+      "playtime": 3147
+    },
+    {
+      "id": "user-1749655003775-4069",
+      "name": "Satisfactory",
+      "image": "media/loading.webp",
+      "playtime": 300
+    },
+    {
+      "id": "user-1749655122308-5533",
+      "name": "Plague Inc: Evolved",
+      "image": "media/loading.webp",
+      "playtime": 60
+    },
+    {
+      "id": "user-1749832616950-9940",
+      "name": "DOOM Eternal",
+      "image": "media/loading.webp",
+      "playtime": 1
+    },
+    {
+      "id": "user-1749278393376-3410",
+      "name": "Factorio",
+      "image": "media/loading.webp",
+      "playtime": 0
+    },
+    {
+      "id": "user-1749654986252-5300",
+      "name": "ULTRAKILL",
+      "image": "media/loading.webp",
+      "playtime": 0
+    },
+    {
+      "id": "user-1749655149145-6128",
+      "name": "Metal: Hellsinger",
+      "image": "media/loading.webp",
+      "playtime": 0
+    },
+    {
+      "id": "user-1749655177832-7834",
+      "name": "Mafia: Definitive Edition",
+      "image": "media/loading.webp",
+      "playtime": 0
+    },
+    {
+      "id": "user-1749655202315-3868",
+      "name": "Hogwarts Legacy",
+      "image": "media/loading.webp",
+      "playtime": 0
+    },
+    {
+      "id": "user-1749655225898-9433",
+      "name": "HITMAN World of Assassination",
+      "image": "media/loading.webp",
+      "playtime": 0
+    },
+    {
+      "id": "user-1749655243947-7779",
+      "name": "Ghost of Tsushima",
+      "image": "media/loading.webp",
+      "playtime": 0
+    }
+  ]
+}
