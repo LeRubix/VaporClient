@@ -33,9 +33,11 @@
 6. Click on any game in the store or add your own game in the library
 
 ## Future Plans:
-1. A centralised game database on a server that clients automatically update
-2. Online friend system instead of importing
+1. Online friend system instead of importing
 2. Discord presence/status support
+3. Game Reviews
+4. Category Filtering
+& more! You can leave feedback or suggestions by clicking the report button in the settings tab :)
 
 I hope you enjoy Vapor Client!
 -Rubix
