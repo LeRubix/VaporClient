@@ -36,7 +36,7 @@
 1. Online friend system instead of importing
 2. Discord presence/status support
 3. Game Reviews
-4. Category Filtering
+4. Category Filtering <br>
 & more! You can leave feedback or suggestions by clicking the report button in the settings tab :)
 
 I hope you enjoy Vapor Client!
