@@ -36,12 +36,12 @@
 1. Online friend system instead of importing
 2. Discord presence/status support
 3. Game Reviews
-4. Category Filtering <br>
+4. Category Filtering <br><br>
 & more! You can leave feedback or suggestions by clicking the report button in the settings tab :)
+<br><br>
 
-I hope you enjoy Vapor Client!
--Rubix
-
+**I hope you enjoy Vapor Client!<br>**
+<br><br>
 ![image](https://github.com/user-attachments/assets/1b47335d-10dc-4577-87e4-85ccda00b61c)
 ![image](https://github.com/user-attachments/assets/80253dc9-8b48-4c19-a3a5-d31806e3830b)
 ![image](https://github.com/user-attachments/assets/5948393f-b6cb-466a-ad1c-361711f8f11d)
